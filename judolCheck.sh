@@ -10,7 +10,7 @@ KEYWORDS=(
     "Slot Online"
     "Maxwin"
     "Jackpot Slot"
-	"Slot Terpercaya"
+    "Slot Terpercaya"
     "Slot Gampang Menang"
     "Slot RTP Tinggi"
     "Slot Resmi"
